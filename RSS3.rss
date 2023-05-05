@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS sobre noticias</title>
+    <description>Consulta las últimas noticias de actualidad al minuto y la última hora de España, México, América y el . </description>
+    <link>https://jenns88.github.io/rss/</link>
+    <language>es-ES</language>
+    <managingEditor>jensanfer2@alu.edu.gva.es</managingEditor>
+    <webMaster>jensanfer2@alu.edu.gva.es</webMaster>
+    
+      <item>
+        <title>20MINUTOS</title>
+        <description>Diario de información general y local más leído de España, consulta las noticias de última hora de España, internacional, local, deportes en 20minutos.</description>
+        <link>https://www.20minutos.es</link>
+      </item>
+      <item>
+        <title>LAS PROVINCIAS</title>
+        <description>Periódico digital con las noticias de Valencia, Alicante y Castellón. Ultima hora de la Comunidad Valenciana.</description>
+        <link>https://www.lasprovincias.es</link>
+      </item>
+      <item>
+        <title>EL PAÍS</title>
+        <description>Noticias de última hora sobre la actualidad en España y el mundo: política, economía, deportes, cultura, sociedad, tecnología, gente, opinión, viajes, moda, ...</description>
+        <link>https://elpais.com</link>
+      </item>
+      <item>
+        <title>EL ECONÓMICO</title>
+        <description>Noticias de Sagunto y el Camp de Morvedre desde 1986.</description>
+        <link>https://eleconomico.es</link>
+      </item>
+      <item>
+        <title>MARCA</title>
+        <description>La mejor información deportiva en castellano actualizada minuto a minuto en noticias, vídeos, fotos, retransmisiones y resultados en directo.</description>
+        <link>https://www.marca.com</link>
+      </item>
+  </channel>
+</rss>

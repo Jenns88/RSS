@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS sobre recetas</title>
+    <description>Sitio dedicado a la gastronomía. Encontrarás recetas de cocina caseras y saludables paso a paso. </description>
+    <link>https://jenns88.github.io/rss/</link>
+    <language>es-ES</language>
+    <managingEditor>jensanfer2@alu.edu.gva.es</managingEditor>
+    <webMaster>jensanfer2@alu.edu.gva.es</webMaster>
+   
+      <item>
+        <title>Libro de cocina actuales</title>
+        <description>Descubre cuales son los libros más famosos de este año.</description>
+        <link>https://www.elcorteingles.es/libros/cocina/#</link>
+      </item>
+      <item>
+        <title>Los 10 mejores restaurantes de Valencia</title>
+        <description>Elige el mejor lugar para disfrutar de una buena comida.</description>
+        <link>https://www.tripadvisor.es/Restaurants-g187529-Valencia_Province_of_Valencia_Valencian_Community.html</link>
+      </item>
+      <item>
+        <title>Todos los eventos gastronómicos en Valencia</title>
+        <description>Descubre en Delicious València la agenda más sabrosa de la ciudad</description>
+        <link>https://deliciousvalencia.com/</link>
+      </item>
+      <item>
+        <title>Vídeo recetas</title>
+        <description>¿te gustaria aprender a cocinar de forma fácil? Aquí podrás seguir los pasos de forma muy sencilla.</description>
+        <link>https://www.divinacocina.es/videorecetas/</link>
+      </item>
+      <item>
+        <title>Solo recetas de postres</title>
+        <description>Aquí encontrarás recetas de postres y repostería para innovar y sorprender.</description>
+        <link>https://www.annarecetasfaciles.com/receta/postres-reposteria</link>
+      </item>
+  </channel>
+</rss>
